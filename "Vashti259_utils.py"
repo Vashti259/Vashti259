@@ -1,1 +1,17 @@
 First Python Model
+'''First Python model byline vashti gambol'''
+# Online Python - IDE, Editor, Compiler, Interpreter
+import statistics
+>>> "from statistics import median"
+>>>data= [10.5, float ('NaN'),15.5,
+def sum(c, d):
+    return (c + d)
+c = int(input('Enter 1st number: '))
+d = int(input('Enter 2nd number: '))
+print(sum of {c} and {d} is {sum(c, d)}')
+company_name: str = "Vashti gambol Inc."
+count_active_projects: int = 10
+has_international_presence: bool = true
+average_client_satisfaction: float = 2.5
+services_offered: list = ["Data Analysis"," Business Intelligence Solutions", "Machine Learning Consulting",]
+satisfaction_scores: list = [2.5, 7.9, 6.9, 10.0, 2.7]
